@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 项目
+- [PyORM - a simple python ORM](https://github.com/lrhhhhhh/SimpleORM)
+- [PyWeb - a simple python web framework](https://github.com/lrhhhhhh/JJCale)

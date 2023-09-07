@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 项目
 ### Go
-- [delayqueue - kafka delay queue implemented by time wheel]()
+- [delayqueue - kafka delay queue implemented by time wheel](https://github.com/lrhhhhhh/delayqueue)
 - [tinyweb](https://github.com/lrhhhhhh/tinyweb)
 - [tinyrpc]() 
 - [GoMall]()

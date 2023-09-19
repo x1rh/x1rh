@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 
 ## 项目
 ### Go
-- [delayqueue - kafka delay queue implemented by time wheel](https://github.com/lrhhhhhh/delayqueue)
-- [tinyweb - a simple go web framework](https://github.com/lrhhhhhh/tinyweb)
-- [GoMall]()
+- [delayqueue](https://github.com/lrhhhhhh/delayqueue)  - Kafka delay queue implemented by time wheel
+- [tinyweb](https://github.com/lrhhhhhh/tinyweb)  - A simple go web framework 
+- [GoMall]() 
 - [timewheel](https://github.com/lrhhhhhh/timewheel)
-- [customproto - a simple application-layer protocol over TCP](https://github.com/lrhhhhhh/customproto)
+- [customproto](https://github.com/lrhhhhhh/customproto) - A simple application-layer protocol over TCP  
 
 
 ### Python 
-- [PyORM - a simple python ORM](https://github.com/lrhhhhhh/SimpleORM)
-- [PyWeb - a simple python web framework](https://github.com/lrhhhhhh/JJCale)
+- [PyORM](https://github.com/lrhhhhhh/SimpleORM )  - A simple python ORM
+- [PyWeb](https://github.com/lrhhhhhh/JJCale)  - A simple python web framework
 
 
 ### DevOps
 - [paas](https://github.com/lrhhhhhh/paas)
 - [k3s-demo](https://github.com/lrhhhhhh/k3s-demo)
-- [hello - 流水线demo](https://github.com/lrhhhhhh/hello)
+- [hello](https://github.com/lrhhhhhh/hello) - tekton, argocd pipeline demo
   - [hello-deployments](https://github.com/lrhhhhhh/hello-deployments)
 
 

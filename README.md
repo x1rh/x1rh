@@ -16,20 +16,22 @@ Here are some ideas to get you started:
 
 ## 项目
 ### Go
-- [delayqueue](https://github.com/lrhhhhhh/delayqueue)  - Kafka delay queue implemented by time wheel
-- [tinyweb](https://github.com/lrhhhhhh/tinyweb)  - A simple go web framework 
-- [GoMall](https://github.com/lrhhhhhh/micro-mall) 
-- [timewheel](https://github.com/lrhhhhhh/timewheel)
-- [customproto](https://github.com/lrhhhhhh/customproto) - A simple application-layer protocol over TCP  
+- [lockfreeq]() - 用 Go 实现的无锁队列
+- [timewheel](https://github.com/lrhhhhhh/timewheel) - 毫秒精度的时间轮
+- [delayqueue](https://github.com/lrhhhhhh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
+- [tinyweb](https://github.com/lrhhhhhh/tinyweb)  - 用 Go 实现的一个 Web 框架
+- [GoMall](https://github.com/lrhhhhhh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
+
+- [customproto](https://github.com/lrhhhhhh/customproto) - 一个基于 TCP 实现的简单应用层协议 
 
 
 ### Python 
-- [PyORM](https://github.com/lrhhhhhh/SimpleORM )  - A simple python ORM
-- [PyWeb](https://github.com/lrhhhhhh/JJCale)  - A simple python web framework
+- [PyORM](https://github.com/lrhhhhhh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
+- [PyWeb](https://github.com/lrhhhhhh/JJCale)  - 用 Python 实现的一个 Web 框架
 
 
 ### DevOps
-- [paas](https://github.com/lrhhhhhh/paas)
+- [PaaS](https://github.com/lrhhhhhh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
 - [k3s-demo](https://github.com/lrhhhhhh/k3s-demo)
 - [hello](https://github.com/lrhhhhhh/hello) - tekton, argocd pipeline demo
   - [hello-deployments](https://github.com/lrhhhhhh/hello-deployments)

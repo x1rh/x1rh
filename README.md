@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - [delayqueue](https://github.com/lrhhhhhh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
 - [tinyweb](https://github.com/lrhhhhhh/tinyweb)  - 用 Go 实现的一个 Web 框架
 - [GoMall](https://github.com/lrhhhhhh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
-
+- [grpc-boilerplate](https://github.com/lrhhhhhh/grpc-boilerplate) - gRPC 微服务模板
 - [customproto](https://github.com/lrhhhhhh/customproto) - 一个基于 TCP 实现的简单应用层协议 
 
 

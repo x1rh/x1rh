@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 - [k3s-demo](https://github.com/lrhhhhhh/k3s-demo)
 - [hello](https://github.com/lrhhhhhh/hello) - tekton, argocd pipeline demo
   - [hello-deployments](https://github.com/lrhhhhhh/hello-deployments)
-
+### Other
+- [algorithm && data structure](https://github.com/lrhhhhhh/ACAutomaton/tree/main/algorithm)
 
 
 <h2 align="left">Languages and Tools:</h2>

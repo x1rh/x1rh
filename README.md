@@ -1,6 +1,6 @@
 <!--
 ### Hi there 👋
-**lrhhhhhh/lrhhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1lrh/1lrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,28 +16,28 @@ Here are some ideas to get you started:
 
 ## 项目
 ### Go
-- [lockfreeq](https://github.com/lrhhhhhh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
-- [timewheel](https://github.com/lrhhhhhh/timewheel) - 毫秒精度的时间轮
+- [lockfreeq](https://github.com/1lrh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
+- [timewheel](https://github.com/1lrh/timewheel) - 毫秒精度的时间轮
 - [ratelimiter](https://github.com/PostApocalypseCore/ratelimiter) - 常见限流器
-- [delayqueue](https://github.com/lrhhhhhh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
-- [tinyweb](https://github.com/lrhhhhhh/tinyweb)  - 用 Go 实现的一个 Web 框架
-- [GoMall](https://github.com/lrhhhhhh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
-- [grpc-boilerplate](https://github.com/lrhhhhhh/grpc-boilerplate) - gRPC 微服务模板
-- [customproto](https://github.com/lrhhhhhh/customproto) - 一个基于 TCP 实现的简单应用层协议 
+- [delayqueue](https://github.com/1lrh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
+- [tinyweb](https://github.com/1lrh/tinyweb)  - 用 Go 实现的一个 Web 框架
+- [GoMall](https://github.com/1lrh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
+- [grpc-boilerplate](https://github.com/1lrh/grpc-boilerplate) - gRPC 微服务模板
+- [customproto](https://github.com/1lrh/customproto) - 一个基于 TCP 实现的简单应用层协议 
 
 
 ### Python 
-- [PyORM](https://github.com/lrhhhhhh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
-- [PyWeb](https://github.com/lrhhhhhh/JJCale)  - 用 Python 实现的一个 Web 框架
+- [PyORM](https://github.com/1lrh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
+- [PyWeb](https://github.com/1lrh/JJCale)  - 用 Python 实现的一个 Web 框架
 
 
 ### DevOps
-- [PaaS](https://github.com/lrhhhhhh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
-- [k3s-demo](https://github.com/lrhhhhhh/k3s-demo)
-- [hello](https://github.com/lrhhhhhh/hello) - tekton, argocd pipeline demo
-  - [hello-deployments](https://github.com/lrhhhhhh/hello-deployments)
+- [PaaS](https://github.com/1lrh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
+- [k3s-demo](https://github.com/1lrh/k3s-demo)
+- [hello](https://github.com/1lrh/hello) - tekton, argocd pipeline demo
+  - [hello-deployments](https://github.com/1lrh/hello-deployments)
 ### Other
-- [algorithm && data structure](https://github.com/lrhhhhhh/ACAutomaton/tree/main/algorithm)
+- [algorithm && data structure](https://github.com/1lrh/ACAutomaton/tree/main/algorithm)
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -58,10 +58,10 @@ Here are some ideas to get you started:
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrhhhhhh&show_icons=true&locale=en&layout=compact" alt="lrhhhhhh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1lrh&show_icons=true&locale=en&layout=compact" alt="1lrh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lrhhhhhh&show_icons=true&locale=en" alt="lrhhhhhh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1lrh&show_icons=true&locale=en" alt="1lrh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lrhhhhhh&" alt="lrhhhhhh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1lrh&" alt="1lrh" /></p>
 
 

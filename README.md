@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   - [hello-deployments](https://github.com/1lrh/hello-deployments)
 ### Other
 - [algorithm && data structure](https://github.com/1lrh/ACAutomaton/tree/main/algorithm)
+- [repository](https://github.com/1lrh/repository)
 
 
 <h2 align="left">Languages and Tools:</h2>

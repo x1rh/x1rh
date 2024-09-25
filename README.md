@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ## 项目
+### web3
+- [chain-config-hub]()
+- [event-listener]()
+- [solidity-service]()
+- [tx-status-server]() 
+
 ### Go
 - [lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
 - [timewheel](https://github.com/x1rh/timewheel) - 毫秒精度的时间轮

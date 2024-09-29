@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### web3
 - [chain-config-hub]()
 - [event-listener]()
-- [solidity-service]()
+- [solidity-contract-service]()
 - [tx-status-server]() 
 
 ### Go

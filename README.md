@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - [tinyweb](https://github.com/x1rh/tinyweb)  - 用 Go 实现的一个 Web 框架
 - [GoMall](https://github.com/x1rh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
 - [grpc-boilerplate](https://github.com/x1rh/grpc-boilerplate) - gRPC 微服务模板
-- [customproto](https://github.com/x1rh/customproto) - 一个基于 TCP 实现的简单应用层协议 
+- [customproto](https://github.com/x1rh/customproto) - 一个基于 TCP 实现的简单应用层协议
+- [asynq-app-boilerplate](https://github.com/x1rh/asynq-app-boilerplate) - asynq的模板仓库
 
 
 ### Python 

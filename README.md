@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## 项目
 ### web3
-- [chain-config-hub]()
-- [event-listener](https://github.com/x1rh/event-listener)
-- [solidity-contract-service]()
-- [tx-status-server]() 
+- [chain-config-hub]() - 
+- [event-listener](https://github.com/x1rh/event-listener) - universal ethereum event listener 
+- [solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
+- [tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor 
 
 ### Go
 - [lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列

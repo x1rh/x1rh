@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - [customproto](https://github.com/x1rh/customproto) - 一个基于 TCP 实现的简单应用层协议
 - [asynq-app-boilerplate](https://github.com/x1rh/asynq-app-boilerplate) - asynq的模板仓库
 - [go-zero-boilerplate](https://github.com/x1rh/go-zero-boilerplate) - go-zero模板库（使用gateway，接口定义基于protobuf，不使用go-zero的api文件）
+- [logger]() - a logger using `slog`
 
 
 ### Python 

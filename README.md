@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 
 ### DevOps
+- [certbot](https://github.com/x1rh/certbot) - Automate HTTPS certificate issuance using `certbot` with the HTTP-01 challenge.
 - [PaaS](https://github.com/1lrh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
 - [k3s-demo](https://github.com/1lrh/k3s-demo)
 - [hello](https://github.com/1lrh/hello) - tekton, argocd pipeline demo

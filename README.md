@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 项目
 ### web3
-- [chain-config-hub]() - 
+- [chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
 - [event-listener](https://github.com/x1rh/event-listener) - universal ethereum event listener 
 - [solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
 - [tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor

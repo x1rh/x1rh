@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [go-zero-boilerplate](https://github.com/x1rh/go-zero-boilerplate) - go-zero模板库（使用gateway，接口定义基于protobuf，不使用go-zero的api文件）
 - [gin-boilerplate](https://github.com/x1rh/gin-boilerplate) - golang gin boilerplate
 - [logger](https://github.com/x1rh/logger) - a logger using `slog`
+- [gopkg](https://github.com/x1rh/gopkg) - go pkg
 
 ### DevOps
 - [certbot](https://github.com/x1rh/certbot) - Automate HTTPS certificate issuance using `certbot` with the HTTP-01 challenge.

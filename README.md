@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 [gin-boilerplate](https://github.com/x1rh/gin-boilerplate) - golang gin boilerplate 
 -->
+## **Go & Rust = INF**
 
 ## 项目
 ### web3

@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
 - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
 
-### algorithm & data structure & programming contest
+### algorithm & data structure 
 - [algo-struct]() - algorithm and data structure write in python, golang, rust
 - [ACAutomation]() - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
 

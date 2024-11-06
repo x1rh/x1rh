@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
 - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
 
+### algorithm & data structure & programming contest
+- [algo-struct]() - algorithm and data structure write in python, golang, rust
+- [ACAutomation]() - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
 
 ### demo & application 
 - [PyORM](https://github.com/1lrh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
@@ -53,7 +56,6 @@ Here are some ideas to get you started:
 - [delayqueue](https://github.com/x1rh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
 
 ### Other
-- [algorithm && data structure](https://github.com/1lrh/ACAutomaton/tree/main/algorithm)
 - [repository](https://github.com/1lrh/repository)
 
 

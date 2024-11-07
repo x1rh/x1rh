@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - [customproto](https://github.com/x1rh/customproto) - 一个基于 TCP 实现的简单应用层协议
 - [GoMall](https://github.com/x1rh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
 - [delayqueue](https://github.com/x1rh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
+- [react-flask-blog](https://github.com/x1rh/lrhaoo) - 基于react/redux+flask+jwt的前后端分离的个人博客 
 
 ### Other
 - [repository](https://github.com/1lrh/repository)

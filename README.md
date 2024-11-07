@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - [tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor
 - [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum(or ethereum-compatible chains), solana, ton 
 
+### algorithm & data structure 
+- [algo-struct]() - algorithm and data structure write in python, golang, rust
+- [ACAutomation]() - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
+
 ### Go
 - [lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
 - [timewheel](https://github.com/x1rh/timewheel) - 毫秒精度的时间轮
@@ -42,10 +46,6 @@ Here are some ideas to get you started:
 - [k3s-demo](https://github.com/1lrh/k3s-demo)
 - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
 - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
-
-### algorithm & data structure 
-- [algo-struct]() - algorithm and data structure write in python, golang, rust
-- [ACAutomation]() - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
 
 ### demo & application 
 - [PyORM](https://github.com/1lrh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库

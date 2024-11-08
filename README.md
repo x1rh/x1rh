@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x1rh&show_icons=true&locale=en&layout=compact" alt="1lrh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x1rh&show_icons=true&locale=en" alt="x1rh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x1rh&" alt="x1rh" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x1rh&" alt="x1rh" /></p>
+![](http://profile-counter.glitch.me/x1rh/count.svg)
 
 

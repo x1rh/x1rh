@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum(or ethereum-compatible chains), solana, ton 
 
 ### algorithm & data structure 
-- [algo-struct]() - algorithm and data structure write in python, golang, rust
-- [ACAutomation]() - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
+- [algo-struct](https://github.com/x1rh/algo-struct) - algorithm and data structure write in python, golang, rust
+- [ACAutomation](git@github.com:x1rh/ACAutomaton.git) - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
 
 ### Go
 - [lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列

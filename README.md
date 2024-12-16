@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 
 
 [gin-boilerplate](https://github.com/x1rh/gin-boilerplate) - golang gin boilerplate 
+
+[tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor 
+
+[solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
 -->
 ## **Go & Rust = INF**
 
 ## 项目
 ### web3
-- [chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
+- [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum, solana, ton
 - [event-listener](https://github.com/x1rh/event-listener) - universal ethereum event listener 
-- [solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
-- [tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor
-- [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum(or ethereum-compatible chains), solana, ton 
+- [solc](https://github.com/PostApocalypseCore/solc) - Go Bindings for the Solidity Compiler
+- [chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
 
 ### algorithm & data structure 
 - [algo-struct](https://github.com/x1rh/algo-struct) - algorithm and data structure write in python, golang, rust

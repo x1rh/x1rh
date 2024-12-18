@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [tx-status-server](https://github.com/x1rh/tx-status-server) - Multi-Blockchain Transaction Status Monitor 
 
 [solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
+
+[chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
 -->
 ## **Go & Rust = INF**
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum, solana, ton
 - [event-listener](https://github.com/x1rh/event-listener) - universal ethereum event listener 
 - [solc](https://github.com/PostApocalypseCore/solc) - Go Bindings for the Solidity Compiler
-- [chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
+
 
 ### algorithm & data structure 
 - [algo-struct](https://github.com/x1rh/algo-struct) - algorithm and data structure write in python, golang, rust

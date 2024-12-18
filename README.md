@@ -60,8 +60,10 @@ Here are some ideas to get you started:
   - [certbot](https://github.com/x1rh/certbot) - Automate HTTPS certificate issuance using `certbot` with the HTTP-01 challenge.
   - [PaaS](https://github.com/1lrh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
   - [k3s-demo](https://github.com/1lrh/k3s-demo)
-  - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
-  - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
+    - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd
+    - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
+
+    
 - **application**
   - [react-flask-blog](https://github.com/x1rh/lrhaoo) - 基于react/redux+flask+jwt的前后端分离的个人博客
   - [GoMall](https://github.com/x1rh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm

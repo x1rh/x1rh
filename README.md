@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [solidity-contract-service]() - Ethereum Smart Contract Compilation, Deployment, and Verification Service
 
 [chain-config-hub](https://github.com/x1rh/chain-config-hub) - block chain configuration service 
+
+[lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
+[timewheel](https://github.com/x1rh/timewheel) - 毫秒精度的时间轮
+[ratelimiter](https://github.com/PostApocalypseCore/ratelimiter) - 常见限流器
+
 -->
 ## **Go & Rust = INF**
 
@@ -31,39 +36,35 @@ Here are some ideas to get you started:
 - [solc](https://github.com/PostApocalypseCore/solc) - Go Bindings for the Solidity Compiler
 
 
-### algorithm & data structure 
-- [algo-struct](https://github.com/x1rh/algo-struct) - algorithm and data structure write in python, golang, rust
-- [ACAutomation](https://github.com/x1rh/ACAutomaton) - hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
 
 ### Go
-- [lockfreeq](https://github.com/x1rh/ACAutomaton/tree/main/algorithm/LockFreeQueue) - 用 Go 实现的无锁队列
-- [timewheel](https://github.com/x1rh/timewheel) - 毫秒精度的时间轮
-- [ratelimiter](https://github.com/PostApocalypseCore/ratelimiter) - 常见限流器
 - [grpc-boilerplate](https://github.com/x1rh/grpc-boilerplate) - gRPC 微服务模板
 - [asynq-boilerplate](https://github.com/x1rh/asynq-boilerplate) - asynq的模板仓库
 - [go-zero-boilerplate](https://github.com/x1rh/go-zero-boilerplate) - go-zero模板库（使用gateway，接口定义基于protobuf，不使用go-zero的api文件）
 - [logger](https://github.com/x1rh/logger) - a logger using `slog`
 - [gopkg](https://github.com/x1rh/gopkg) - go pkg
 
-### DevOps
-- [certbot](https://github.com/x1rh/certbot) - Automate HTTPS certificate issuance using `certbot` with the HTTP-01 challenge.
-- [PaaS](https://github.com/1lrh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
-- [k3s-demo](https://github.com/1lrh/k3s-demo)
-- [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
-- [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
-
-### demo & application 
+### demo
 - [PyORM](https://github.com/1lrh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
 - [PyWeb](https://github.com/1lrh/JJCale)  - 用 Python 实现的一个 Web 框架
 - [tinyweb](https://github.com/x1rh/tinyweb)  - 用 Go 实现的一个 Web 框架
 - [customproto](https://github.com/x1rh/customproto) - 一个基于 TCP 实现的简单应用层协议
-- [GoMall](https://github.com/x1rh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
 - [delayqueue](https://github.com/x1rh/delayqueue)  - 使用时间轮在 kafka 上实现的延迟队列
-- [react-flask-blog](https://github.com/x1rh/lrhaoo) - 基于react/redux+flask+jwt的前后端分离的个人博客 
 
-### Other
-- [repository](https://github.com/1lrh/repository)
 
+
+### [**Other**](https://github.com/1lrh/repository)
+- **algorithm**
+  - [ACAutomation](https://github.com/x1rh/ACAutomaton) - 数据结构和算法, hdu, leetcode, codeforces, luogu等多个程序竞赛平台的题解
+- **DevOps**
+  - [certbot](https://github.com/x1rh/certbot) - Automate HTTPS certificate issuance using `certbot` with the HTTP-01 challenge.
+  - [PaaS](https://github.com/1lrh/paas) - 使用各种开源软件在 Kubernetes 上搭建的简易 PaaS 
+  - [k3s-demo](https://github.com/1lrh/k3s-demo)
+  - [hello](https://github.com/1lrh/hello) - the example of GitOps pipeline using tekton, argocd 
+  - [hello-deployments](https://github.com/1lrh/hello-deployments) - deployment of [hello](https://github.com/1lrh/hello)
+- **application**
+  - [react-flask-blog](https://github.com/x1rh/lrhaoo) - 基于react/redux+flask+jwt的前后端分离的个人博客
+  - [GoMall](https://github.com/x1rh/micro-mall) - 基于分布式事务的秒杀商城，使用go-zero和dtm
 
 
 <h2 align="left">Languages and Tools:</h2>

@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [web3go](https://github.com/x1rh/web3go) -  Library in pure Golang for interacting with ethereum, solana, ton
 - [event-listener](https://github.com/x1rh/event-listener) - universal ethereum event listener 
 - [solc](https://github.com/PostApocalypseCore/solc) - Go Bindings for the Solidity Compiler
-- [uniswap-v2-subgraph](https://github.com/x1rh/uniswap-v2-subgraph) - A subgraph thats indexes and tracks ethereum mainnet pairs
+- [uniswap-v2-subgraph](https://github.com/x1rh/uniswap-v2-subgraph) - A subgraph that indexes and tracks ethereum mainnet pairs
 
 
 

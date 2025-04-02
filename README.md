@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [asynq-boilerplate](https://github.com/x1rh/asynq-boilerplate) - asynq的模板仓库
 - [go-zero-boilerplate](https://github.com/x1rh/go-zero-boilerplate) - go-zero模板库（使用gateway，接口定义基于protobuf，不使用go-zero的api文件）
 - [logger](https://github.com/x1rh/logger) - a logger using `slog`
-- [gopkg](https://github.com/x1rh/gopkg) - go pkg
+- [pkg](https://github.com/x1rh/pkg) - go pkg
 
 ### demo
 - [PyORM](https://github.com/1lrh/SimpleORM )  - 一个类 SQLAlchemy 的 Python ORM 库
